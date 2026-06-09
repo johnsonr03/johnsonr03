@@ -1,6 +1,6 @@
 ## Hi there, I'm Johnson
 
-I'm a diligent and curious Computer Science with Artificial Intelligence graduate with solid technical experience in various software and in team-oriented projects.
+Computer Science & Artificial Intelligence graduate with strong technical experience in developing AI piplines and data driven applications and collaborating on team-oriented software projects.
 <!--
 **johnsonr03/johnsonr03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
